@@ -1,5 +1,5 @@
 ---
 layout: page
-title:Projects
+title: Projects
 ---
-These are my projects
+These are my projects.
