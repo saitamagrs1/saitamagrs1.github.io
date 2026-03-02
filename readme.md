@@ -1,1 +1,4 @@
-test commit
+---
+layout: home
+title:Home
+---
