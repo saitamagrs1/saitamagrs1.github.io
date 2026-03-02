@@ -11,6 +11,7 @@ This website is created using **jekyll and github pages**.
 ## About Me
 
 ## My Pages
-- About
-- Projects
-- contracts
+- [About](about)
+- [Projects](projects)
+- [contracts](contact)
+- [Blog](blog)
