@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-# Welcome to My Website
+# Github Projects
 
 Hi, my name is Raja shekhar Gandam.
 
