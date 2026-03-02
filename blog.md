@@ -1,5 +1,5 @@
 ---
 layout: page
-title:Blog
+title: Blog
 ---
 Welcome to my blog
